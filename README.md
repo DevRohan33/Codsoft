@@ -16,6 +16,10 @@ A simple and user-friendly To-Do List application built with Python and Tkinter,
   - Enter a task title and click "Add" to save it.
   - Select a task and click "Remove" to delete it.
   - Click "Delete All" to clear all tasks after confirming.
+# Screenshot 
+![todolist1](https://github.com/user-attachments/assets/33f2cd2c-2f41-4999-9330-6e78fd0aa201)
+![todolist2](https://github.com/user-attachments/assets/28f76e6e-9e32-4f87-b381-5a0f1c75bf9c)
+![todolist3](https://github.com/user-attachments/assets/6398c488-c9f8-4564-99d9-daad33e01e6e)
 
 
 <h1 align="center">Hi 👋, I'm Rohan Parveag</h1>
