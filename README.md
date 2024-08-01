@@ -22,6 +22,64 @@ A simple and user-friendly To-Do List application built with Python and Tkinter,
 ![todolist3](https://github.com/user-attachments/assets/6398c488-c9f8-4564-99d9-daad33e01e6e)
 
 
+# Task 2
+# Calculator
+
+A simple GUI-based calculator built using Python's Tkinter library. This calculator includes basic arithmetic operations like addition, subtraction, multiplication, and division, along with a clear function to reset the display.
+
+## Features
+
+- Basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/)
+- Clear (C) button to reset the input
+- Responsive design with color effects for buttons and display
+- Error handling for invalid calculations
+
+## Code Explanation
+
+The `calculator.py` script contains the following key components:
+
+- **Importing Tkinter**: Import the Tkinter library to create the GUI.
+- **click(event)**: A function to handle button click events, perform calculations, and update the display.
+- **GUI Setup**: Initialize the main window, set its title, geometry, and background color.
+- **Screen Area**: Create an entry widget to display the input and results.
+- **Button Frame**: Define a helper function to create buttons with specified properties.
+- **Button Colors**: Define color schemes for digit buttons and operator buttons.
+- **Create Buttons**: Loop through a list of button texts to create and pack buttons into frames.
+
+## Screenshot
+![Screenshot](https://github.com/user-attachments/assets/1d95e4d3-3645-4547-959a-cbba27c40a4c)
+
+
+## Installation
+
+1. Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
+2. Install Tkinter if it's not already installed. Tkinter usually comes pre-installed with Python, but if not, you can install it using pip:
+    ```bash
+    pip install tk
+    ```
+
+## Usage
+
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/DevRohan33/Codsoft.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Codsoft
+    ```
+3. Run the  `calculator.py` or `calculator.py`  script:
+    ```bash
+    python calculator.py
+    ```
+    ```bash
+    python calculator.py
+    ```
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rohan Parveag</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
