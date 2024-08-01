@@ -68,9 +68,9 @@ The `calculator.py` script contains the following key components:
     ```bash
     cd Codsoft
     ```
-3. Run the  `calculator.py` or `calculator.py`  script:
+3. Run the  `To-Do-List.py` or `calculator.py`  script:
     ```bash
-    python calculator.py
+    python To-Do-List.py
     ```
     ```bash
     python calculator.py
