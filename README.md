@@ -75,10 +75,59 @@ The `calculator.py` script contains the following key components:
     ```bash
     python calculator.py
     ```
+# Task 3
+# Password Generator
+
+## Overview
+
+The **Password Generator** is a Python-based GUI application that allows users to generate strong, customizable passwords. With a user-friendly interface built using Tkinter, this tool enables users to select from various character sets, determine password length, and instantly assess password strength. The application is perfect for anyone looking to create secure passwords for their online accounts or other sensitive data.
+
+## Features
+
+### 1. Password Length Customization
+   - Users can easily set the desired length of the password using a simple spinbox control.
+   - The length can be adjusted between 4 and 20 characters.
+
+### 2. Character Set Selection
+   - **Uppercase Letters**: Option to include uppercase letters (A-Z) in the password.
+   - **Lowercase Letters**: Option to include lowercase letters (a-z) in the password.
+   - **Numbers**: Option to include numeric characters (0-9) in the password.
+   - **Special Characters**: Option to include special characters (!@#$%^&*()) in the password.
+   - Users can select one or more of these character sets to be included in the generated password.
+
+### 3. Password Strength Indicator
+   - The application dynamically evaluates the strength of the generated password.
+   - The strength is categorized as **Weak**, **Medium**, or **Strong** based on the length and complexity of the password.
+
+### 4. Copy to Clipboard
+   - Once a password is generated, users can easily copy it to their clipboard with a single click.
+   - A confirmation message is displayed to indicate that the password has been successfully copied.
+
+### 5. Responsive and Aesthetic Design
+   - The application features a modern, flat design with carefully chosen colors for a pleasing user experience.
+   - It includes a logo and consistent use of fonts and colors across the interface.
+
+## Screenshot
+![Image_1](https://github.com/user-attachments/assets/a4db03ae-aeda-4d81-85a9-e6da25408629)
+![image_2](https://github.com/user-attachments/assets/f7b8ed39-d9d4-4e80-817c-77f647ff92f3)
+![image_3](https://github.com/user-attachments/assets/f5ee212a-c454-4437-a6a0-2c60c77cfe04)
 
 
+## Installation
 
-
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/DevRohan33/Codsoft.git
+   ```
+2. **Navigate to the Project Directory**
+   ```bash
+   cd password-generator
+   ```
+3. **Run the Application:**
+  ```bash
+  python password_generator.py
+   ``` 
+ 
 
 <h1 align="center">Hi 👋, I'm Rohan Parveag</h1>
 <h3 align="center">A passionate python developer from India</h3>
